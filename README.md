@@ -27,7 +27,7 @@
 </p>
 
 ---
-### Recently Updated Youtube Videos
+### Recently Uploaded Youtube Videos
 
 * [Quick Sort using C++](https://www.youtube.com/watch?v=v7sIbpfkXC0)
 * [Selection Sort using C++](https://www.youtube.com/watch?v=8X7VfJ2Rc8o)
