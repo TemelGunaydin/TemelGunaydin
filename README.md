@@ -28,8 +28,15 @@
 * [Quick Sort using C++](https://www.youtube.com/watch?v=v7sIbpfkXC0)
 * [Selection Sort using C++](https://www.youtube.com/watch?v=8X7VfJ2Rc8o)
 ---
+### Currently...
+- 🚀 I’m currently working as **Udemy Instructor for [my courses](https://temelgunaydin.github.io/)**
+- 🛰️ I’m currently learning **SalesForce Development, LWC, Apex**
+- 🤝 I’m looking to collaborate on **open source**
+
+---
 ### Blogs
 * [Oh my posh for your Terminal]()
 ---
 ### Github Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=temelgunaydin&show_icons=true&theme=gotham" alt="temelgunaydin" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=temelgunaydin&layout=compact&show_icons=true&theme=calm&hide_border=true" alt="temelgunaydin" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temelgunaydin&layout=compact&&theme=calm&hide_border=true" alt="temelgunaydin" />
