@@ -1,3 +1,6 @@
+<img align=right src="https://visitor-badge.laobi.icu/badge?page_id=TemelGunaydin.TemelGunaydin">
+<br>
+
 <a href="https://temelgunaydin.github.io/">
   <img src="https://github.com/TemelGunaydin/Assets/blob/e740276a63547709a30171b58139568d66806d8b/BG.png"/>
 </a>
