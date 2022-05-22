@@ -2,7 +2,7 @@
 <br>
 
 <a href="https://temelgunaydin.github.io/">
-  <img src="https://github.com/TemelGunaydin/Assets/blob/e740276a63547709a30171b58139568d66806d8b/BG.png"/>
+  <img src="https://github.com/TemelGunaydin/Assets/blob/7c3ab36c20c9f2a11a6ce7346efd1f3799467e3f/BG_forReadme.png"/>
 </a>
 <br>
 <br>
