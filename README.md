@@ -30,3 +30,6 @@
 ---
 ### Blogs
 * [Oh my posh for your Terminal]()
+---
+### Github Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=temelgunaydin&show_icons=true&theme=gotham" alt="temelgunaydin" />
