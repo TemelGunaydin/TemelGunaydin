@@ -22,7 +22,7 @@
 </p>
 <p align = "center">
  <a href="https://www.buymeacoffee.com/tgunaydinD/">
-    <img  style="width:150px;height:50px"src="https://uce769809dcf9f482a03ea62465e.previews.dropboxusercontent.com/p/thumb/ABiL0H1T5sQUVIIRR4VRD8UgU8NE7UHmKjQtqK62Mr4-h68Gv8EAg7ZEAjjP8unosj6462mBkUlDhuwB3CIa_NDEpGzbJvCmVs4JKpKRLMiGgzGSArHzzqgw65XMSrczpn2cvyIGNJzJC0du7Cyx8rl4XAbtloEM-wGbsFrwUwwI4N-LWjBBbVZrf5aeUf2s7iQbqMEhMMkCztRroE-M9m8YOG1AZ7idCScPQDt6yvE4LkaeabrpS4iyUJsgmCaMrE9-xyg4We5pUT2ioJu-yai4V75Uu-SrqMgBynONQ_e13UkCKRF_b34MDhM7bylNPdUe680djUYM5bZDJYRxEvs-L1VbosFo0Hw89yWRb4BoAWbNVyLWTbGYnPpdx6SaEJ0/p.png"/>
+    <img  style="width:150px;height:50px"src="https://github.com/TemelGunaydin/Assets/blob/feae1d4ec6674d645303c695255843a1b4a95f06/buymecoffeeREADME.png"/>
   </a>
 </p>
 
