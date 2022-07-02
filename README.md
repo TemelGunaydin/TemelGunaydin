@@ -44,6 +44,7 @@
 - [Javascript Projects](https://github.com/TemelGunaydin/Javascript-Projects)
 - [Node.js Projects](https://github.com/TemelGunaydin/Node-Projects)
 - [Django Projects](https://github.com/TemelGunaydin/DjangoProjects)
+- [Django Rest Framework Project](https://github.com/TemelGunaydin/DjangoRestFrameworkAPIDesign)
 
 ---
 
