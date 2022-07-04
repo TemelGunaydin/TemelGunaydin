@@ -33,8 +33,9 @@
 
 ### Currently...
 
-- 🚀 I’m currently working as **Udemy Instructor for [my courses](https://temelgunaydin.github.io/)**
-- 🛰️ I’m currently learning **SalesForce Development, LWC, Apex**
+- 🚀 I’m working as **Udemy Instructor for [my courses](https://temelgunaydin.github.io/)**
+- 🛰️ I’m studying for **SalesForce Developer Certification**
+- 🛰️ I’m learning **React**
 - 🤝 I’m looking to collaborate on **open source**
 
 ---
