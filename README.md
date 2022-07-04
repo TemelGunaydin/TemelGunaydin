@@ -26,32 +26,38 @@
 
 ### Recently Uploaded Youtube Videos
 
-- [Quick Sort using C++](https://www.youtube.com/watch?v=v7sIbpfkXC0)
-- [Selection Sort using C++](https://www.youtube.com/watch?v=8X7VfJ2Rc8o)
+-   [Quick Sort using C++](https://www.youtube.com/watch?v=v7sIbpfkXC0)
+-   [Selection Sort using C++](https://www.youtube.com/watch?v=8X7VfJ2Rc8o)
 
 ---
 
 ### Currently...
 
-- 🚀 I’m working as **Udemy Instructor for [my courses](https://temelgunaydin.github.io/)**
-- 🛰️ I’m studying for **SalesForce Developer Certification**
-- 🛰️ I’m learning **React**
-- 🤝 I’m looking to collaborate on **open source**
+-   🚀 I’m working as **Udemy Instructor for [my courses](https://temelgunaydin.github.io/)**
+-   🛰️ I’m studying for **SalesForce Developer Certification**
+-   🛰️ I’m learning **React**
+-   🤝 I’m looking to collaborate on **open source**
 
 ---
 
 ### Side Projects
 
-- [Javascript Projects](https://github.com/TemelGunaydin/Javascript-Projects)
-- [Node.js Projects](https://github.com/TemelGunaydin/Node-Projects)
-- [Django Projects](https://github.com/TemelGunaydin/DjangoProjects)
-- [Django Rest Framework Project](https://github.com/TemelGunaydin/DjangoRestFrameworkAPIDesign)
+-   [Javascript Projects](https://github.com/TemelGunaydin/Javascript-Projects)
+-   [Node.js Projects](https://github.com/TemelGunaydin/Node-Projects)
+-   [Django Projects](https://github.com/TemelGunaydin/DjangoProjects)
+-   [Django Rest Framework Project](https://github.com/TemelGunaydin/DjangoRestFrameworkAPIDesign)
 
 ---
 
 ### Blogs
 
-- [Oh my posh for your Terminal]()
+-   [Oh my posh for your Terminal]()
+
+---
+
+### Nvim Config
+
+-
 
 ---
 
